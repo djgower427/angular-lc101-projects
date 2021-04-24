@@ -3,3 +3,7 @@ h1 {
     color: #354a5f;
     text-decoration: underline;
  }
+
+ #error{
+     color: red;
+ }
